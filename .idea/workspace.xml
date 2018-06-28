@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c0e1af-61c4-414d-b4f5-51676ad41c38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,13 +19,22 @@
       <file leaf-file-name="meta.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meta.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="183" column="38" selection-start-line="183" selection-start-column="38" selection-end-line="183" selection-end-column="38" />
+            <state relative-caret-position="208">
+              <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="webpack.dev.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/build/webpack.dev.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/src/views/layout.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -38,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/template/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -47,16 +56,16 @@
         <entry file="file://$PROJECT_DIR$/template/src/components/Test.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -80,6 +89,14 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>static</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -162,6 +179,31 @@
             <path>
               <item name="vue-webpack-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-webpack-template" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-webpack-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-webpack-template" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-webpack-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-webpack-template" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-webpack-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-webpack-template" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-webpack-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-webpack-template" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -213,12 +255,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530153688657</updated>
-      <workItem from="1530153690514" duration="1242000" />
+      <workItem from="1530153690514" duration="3053000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1242000" />
+    <option name="totallyTimeSpent" value="3053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -231,13 +273,13 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.46758622" />
+      <window_info anchor="bottom" id="Terminal" weight="0.39310345" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -317,35 +359,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meta.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="183" column="38" selection-start-line="183" selection-start-column="38" selection-end-line="183" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/src/views/layout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/src/components/Test.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="171" column="6" selection-start-line="171" selection-start-column="6" selection-end-line="171" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/src/views/layout.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
